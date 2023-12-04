@@ -1,0 +1,11 @@
+// 默认已导入 @/scss/mixin/var.module.scss 全局变量
+// 默认已导入 @/scss/mixin/index.scss      全局方法
+* {
+  &::after,
+  &::before {
+    box-sizing: border-box;
+  }
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}

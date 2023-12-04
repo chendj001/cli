@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "csstype": "^3.1.2",
+    "dayjs": "^1.11.10",
+    "gsap": "^3.12.3",
+    "sass": "^1.69.5",
+    "unplugin-auto-import": "^0.17.2",
+    "unplugin-vue-components": "^0.26.0",
+    "vite-plugin-vue-setup-extend": "^0.4.0"
+  }
+}
